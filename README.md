@@ -33,7 +33,7 @@ This profile is meant to feel like a compact portfolio: personal, visual, and ea
 ## Activity Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asingh301996&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=7dd3fc&area=true&area_color=38bdf8" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita's&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=7dd3fc&area=true&area_color=38bdf8" alt="Activity graph" />
 </p>
 
 ## What I Solve
